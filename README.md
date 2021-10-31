@@ -19,6 +19,8 @@
 - cmt_sample.json: 샘플 영상 댓글 데이터 파일.
 - sample_data.ipynb: 샘플 데이터를 dataframe으로 변환해 확인해볼 수 있는 notebook 파일.
 
+<br>
+
 ### 데이터 수집 항목
 #### 영상 데이터(vid_data)
 - 영상 제목(vid_title)
