@@ -13,7 +13,11 @@
 <br>
 
 ### 코드 파일 설명
-
+- ytube.py: 스크래핑 수행 파일을 위해 실행되는 파일. 데이터를 수집하고, DB에 저장한다.
+- ytube_utils.py: ytube.py에서 사용되는 함수들이 포함된 파일. 각종 전처리 함수를 포함한다.
+- product_sample.jsond: 샘플 영상 정보 데이터 파일.
+- cmt_sample.json: 샘플 영상 댓글 데이터 파일.
+- sample_data.ipynb: 샘플 데이터를 dataframe으로 변환해 확인해볼 수 있는 notebook 파일.
 
 ### 데이터 수집 항목
 #### 영상 데이터(vid_data)
