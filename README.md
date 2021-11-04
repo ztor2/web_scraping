@@ -56,11 +56,13 @@
 
 ### 데이터 수집 예시
 
+<br>
+
 <p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/4HATzSlvil.png" width="50%" align="center"> </p>
 <p align="center">  <b> 그림 1. </b> 웹 스크래핑 코드 실행 예시. </p>
 
 <br>
 
-<p align="center"> <img src="https://https://i.esdrop.com/d/fha5flk1blzo/BqXyvBgJVC.png" width="70%" align="center"> </p>
-<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/TOxq94WQN9.png" width="70%" align="center"> </p>
-<p align="center">  <b> 그림 2. </b> 웹 스크래핑을 통해 수집된 데이터 예시(위: 영상 정보 데이터 테이블, 아래: 영상 댓글 데이터 테이블). </p>
+<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/BqXyvBgJVC.png" width="45%" align="center"> </p>
+<p align="center"> <img src="https://i.esdrop.com/d/fha5flk1blzo/TOxq94WQN9.png" width="60%" align="center"> </p>
+<p align="center">  <b> 그림 2. </b> 웹 스크래핑을 통해 DB에 수집된 데이터 예시(위: 영상 정보 데이터 테이블, 아래: 영상 댓글 데이터 테이블). </p>
