@@ -1,4 +1,3 @@
-# 2020.07.15 Jason :: SNS crawl data logger
 import MySQLdb
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
@@ -51,10 +50,6 @@ class DB_model:
         return row
 
     """
-        본문 내용 입력 모듈 
-        =================
-        본문 내용을 기록하며 기존 입력 내용이 있을 경우 카운트만 업데이트 하며 변화 추이를 볼수 있도록 로그에 기록시켜줍니다.
-
         :Method Call Example : 
         >>> set_data_body(1, {unique_id : 1, user_name : 'sample'} )
 
@@ -218,8 +213,6 @@ class DB_model:
             :key comment_date : 코멘트 작성 시간 Y-m-d H:i:s
             :key comment_like : 좋아요 수
             :key contents : 본문 내용
-
-        이러한 형태로 보내주면 됩니다. 
         {
             unique_id : '',
             keyword : '',
